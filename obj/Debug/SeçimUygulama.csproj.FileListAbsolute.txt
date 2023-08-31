@@ -1,0 +1,11 @@
+D:\sourcee\repos\SeçimUygulama\obj\Debug\SeçimUygulama.csproj.AssemblyReference.cache
+D:\sourcee\repos\SeçimUygulama\obj\Debug\SeçimUygulama.Form1.resources
+D:\sourcee\repos\SeçimUygulama\obj\Debug\SeçimUygulama.frmgrafikler.resources
+D:\sourcee\repos\SeçimUygulama\obj\Debug\SeçimUygulama.Properties.Resources.resources
+D:\sourcee\repos\SeçimUygulama\obj\Debug\SeçimUygulama.csproj.GenerateResource.cache
+D:\sourcee\repos\SeçimUygulama\obj\Debug\SeçimUygulama.csproj.CoreCompileInputs.cache
+D:\sourcee\repos\SeçimUygulama\bin\Debug\SeçimUygulama.exe.config
+D:\sourcee\repos\SeçimUygulama\bin\Debug\SeçimUygulama.exe
+D:\sourcee\repos\SeçimUygulama\bin\Debug\SeçimUygulama.pdb
+D:\sourcee\repos\SeçimUygulama\obj\Debug\SeçimUygulama.exe
+D:\sourcee\repos\SeçimUygulama\obj\Debug\SeçimUygulama.pdb
